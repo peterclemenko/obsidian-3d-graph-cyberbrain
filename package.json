@@ -26,6 +26,6 @@
 	"dependencies": {
 		"3d-force-graph": "^1.70.12",
 		"d3": "^7.6.1",
-		"observable-slim": "^0.1.6"
+		"observable-slim": "^0.2.0"
 	}
 }
